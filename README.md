@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Liam! (@mailwilliams)
 - 👀 I’m interested in Go, blockchain, and distributed systems
-- 🌱 I’m currently learning how to build distributed applications with Gin (12/24/2021)
+- 🌱 I’m currently learning how to build distributed applications with gRPC (11/08/2022)
 - 💞️ I’m looking to collaborate on Go and Web3 projects
 - 📫 How to reach me 
   - Email: liamwilliams1218@gmail.com
