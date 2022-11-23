@@ -5,7 +5,7 @@
 - 📫 How to reach me 
   - Email: liamwilliams1218@gmail.com
   - LinkedIn: https://www.linkedin.com/in/liamwilliamsmba/
-  - Twitter: https://twitter.com/liamwilliamsmba
+  - Twitter: https://twitter.com/mailwilliamsmba
 
 <!---
 mailwilliams/mailwilliams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
