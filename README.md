@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Liam! (@mailwilliams)
-- 👀 I’m interested in AI, ML, and dsitributed systems infrastructure
+- 👀 I’m interested in AI, ML, and distributed systems
 - 💞️ I’m looking to collaborate on AI and ML problems
 - 📫 How to reach me 
   - Email: liamwilliams1218@gmail.com
